@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahinul Mostafa Abid
 - 👀 I’m a web app developer.
 - 🌱 I’m currently learning C++, data structure and algorithm.
-- 📫 If you’re interested in grabbing coffee and talking shop, please send an email my way. 
+- 📫 If you’re interested in grabbing coffee and talking, please send an email my way. 
 himahinulabid@gmail.com
 
 <!---

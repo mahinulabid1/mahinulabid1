@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahinul Mostafa Abid
-- 👀 I’m a student who's trying to learn software engineering.
+- 👀 I’m a student who's trying to learn software developing.
 - 🌱 I’m currently learning C++, data structure and algorithm.
 - 📫 If you’re interested in grabbing coffee and talking, please send an email my way. 
 himahinulabid@gmail.com

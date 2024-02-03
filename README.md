@@ -38,10 +38,45 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
+<!-- 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,bash" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,postman,mongodb,redux,sass" /><br>
 </div>
+-->
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/SaSS-3776AB?style=for-the-badge&logo=sass&logoColor=white" alt="SaSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
+  <img src="https://img.shields.io/badge/TypeScript-38B2AC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+
+<br> 
+
+  <img src="https://img.shields.io/badge/Node.Js-44883e?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-68a063?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-C1BEBC?style=for-the-badge&logo=mongodb&logoColor=black" alt="mongoDB">
+  <img src="https://img.shields.io/badge/Mongoose-c2b834?style=for-the-badge&logo=mongoose&logoColor=white" alt="mongoose">
+  <img src="https://img.shields.io/badge/AWS--S3-F7DF1E?style=for-the-badge&logo=AWS&logoColor=black" alt="aws s3">
+ 
+
+<br>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Redux-FF6F00?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+
+  <br>
+  <br>
+  
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/PostMan-F7DF1E?style=for-the-badge&logo=postman&logoColor=black" alt="postman">
+  <img src="https://img.shields.io/badge/Figma-%23F7931E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/AdobeXD-EC407A.svg?style=for-the-badge&logo=adobexd&logoColor=white" alt="Figma">
+</div>
+
 
 <br/>
 <hr/>
